@@ -1,5 +1,6 @@
 package programa;
 
+import utilitarios.Utils;
 
 public class ContaBancaria {
 
@@ -76,7 +77,6 @@ public class ContaBancaria {
             System.out.println("Não foi possível realizar a transferência");
         }
     }
-
 
 }
 
